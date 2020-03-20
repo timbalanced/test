@@ -6,7 +6,7 @@
         "timbalanced/test": "^1.0"
     },
     "type": "library",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "authors": [
         {
             "name": "timbalanced",
