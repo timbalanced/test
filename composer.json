@@ -16,7 +16,7 @@
     "repositories": [
         {
             "type": "vcs",
-            "url":  "https://github.com/timbalanced"
+            "url":  "https://github.com/timbalanced/test"
         }
     ],
     "license": "GPL-2.0-only",
