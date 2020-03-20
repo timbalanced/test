@@ -2,7 +2,7 @@
     "name": "timbalanced/test",
     "description": "This is only a test",
     "require": {
-        "php": "^5.6"
+        "php": "5.6"
     },
     "type": "library",
     "version": "1.0",
